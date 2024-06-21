@@ -7,14 +7,13 @@ const Footer = () => {
   return (
     <footer className="w-full pb-10 mb-[100px] mt-20 md:mb-5" id="contact">
       {/* background grid */}
-      {/*<div className="w-full absolute left-0 -bottom-72 min-h-96">
+      <div className="w-full absolute left-0 -bottom-72 min-h-96">
         <img
           src="/footer-grid.svg"
           alt="grid"
-          className="w-full h-full opacity-50 lg:max-h-[85vh]"
+          className="w-full h-full opacity-50 xl:opacity-35 2xl:opacity-20 lg:max-h-[85vh]"
         />
       </div>
-      */}
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">

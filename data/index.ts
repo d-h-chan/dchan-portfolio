@@ -199,7 +199,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Paypal - Software Enginer II",
-    desc: "Developed and maintaned a dashboard for businesses to manage their accounts and finances.",
+    desc: "Developed and maintained a dashboard for businesses to manage their accounts and finances.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -220,7 +220,7 @@ export const workExperience = [
   {
     id: 4,
     title: "SCU - Masters Degree",
-    desc: "Santa Clara University, M.S. in Computer Science and Engineering.",
+    desc: "Santa Clara University, M.S. in Computer Science and Engineering. \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
