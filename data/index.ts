@@ -106,18 +106,18 @@ export const projects = [
   },
   {
     id: 3,
-    title: "FigPro - Collaborative Vector Drawing",
-    des: "A browser-based design tool, enabling users to work together in real-time on UI and UX projects.",
-    img: "/figp.svg",
+    title: "LiveDocs - Collaborative Word Processor",
+    des: "A browser-based Google Docs clone, enabling users to create and format documents together in real time.",
+    img: "/livedocs.svg",
     iconLists: [
       "/re.svg",
       "/next.svg",
       "/tail.svg",
       "/ts.svg",
       "/liveblocks.png",
-      "/fabric.png",
+      "/lex.png",
     ],
-    link: "https://figclone.vercel.app/",
+    link: "https://livedocs-dc.vercel.app/",
   },
   {
     id: 4,
