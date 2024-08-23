@@ -91,7 +91,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Imaginify - Canva Application",
+    title: "Imaginify - Graphic Design Tool",
     des: "A Software-as-a-Service app with AI image editing features and a payments and credits system.",
     img: "/imgn.svg",
     iconLists: [
